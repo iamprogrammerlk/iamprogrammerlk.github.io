@@ -35,9 +35,9 @@ If you have technical or coding experience, you can assist by:
 
 - Verify submitted bugs and provide additional details.
 
-If you need assistance with submitting your code contributions, the [GitHub Discussions](/../../discussions) is a good
+If you need assistance with submitting your code contributions, the [Reddit.com Community](https://reddit.com/r/iamprogrammerlk) is a good
 place to begin. You can also contact the project developers and the community through our
-[GitHub Discussions](/../../discussions) forum.
+[Reddit.com Community](https://reddit.com/r/iamprogrammerlk) forum.
 
 ## General Rules For Contributing
 
