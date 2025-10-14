@@ -18,7 +18,7 @@
 
 In order to clarify the intellectual property license granted with contributions from any person or entity
 (the "Contributor"), this project owner(s) require all contributions to be signed by the contributor (using Git's "Sign
-and Verify Work Using GPG" [^1] workflow), indicating an agreement to the license terms below.
+and Verify Work Using GPG" ([Git Tools - Signing Your Work using GPG](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)) workflow), indicating an agreement to the license terms below.
 
 This license is for your protection as a contributor as well as the protection of the project itself and its users, it
 does not change your rights to use your own contributions for any other purpose.
@@ -61,5 +61,3 @@ copyright and patent licenses thereto.
 - Project owner(s) agree your contributions will apply only to this project (including all the repositories run by this
   project) and your contributions will not be individually separated, shared, relicensed, or sold outside of this
   project.
-
-[^1]: [Git Tools - Signing Your Work using GPG](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work).
