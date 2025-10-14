@@ -12,14 +12,13 @@
 
 <br>
 
-<a href="https://iamprogrammer.lk">Home</a> ⭐
-<a href="https://github.com/sponsors/iamprogrammerlk">Sponsors</a> ⭐
-<a href="https://reddit.com/r/iamprogrammerlk">Community</a> ⭐
-<a href="https://github.com/iamprogrammerlk">Github</a> ⭐
-<a href="https://youtube.com/@iamprogrammerlk">Youtube</a> ⭐
-<a href="https://x.com/iamprogrammerlk">X</a> ⭐
-<a href="https://linkedin.com/company/iamprogrammerlk">LinkedIn</a> ⭐
-<a href="https://buymeacoffee.com/iamprogrammerlk">Buy Me a Coffee</a>
+<h3>
+  ⭐ <a href="https://iamprogrammer.lk">Home</a> ⭐
+  <a href="https://iamprogrammer.lk/sponsor">Be a Sponsor</a> ⭐
+  <a href="https://iamprogrammer.lk/support">Get Support</a> ⭐
+  <a href="https://iamprogrammer.lk/contact">Contact Me</a> ⭐
+  <a href="https://reddit.com/r/iamprogrammerlk">Join the Community</a> ⭐
+</h3>
 
 <br><br>
 

@@ -29,11 +29,8 @@ My portfolio website.
 
 - I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
 
-  [iamprogrammer.lk](https://iamprogrammer.lk)
-  🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk)
-  🔸 [reddit.com/u/iamprogrammerlk_](https://reddit.com/u/iamprogrammerlk_)
-  🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk)
-  🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
+  - 🌐 [iamprogrammer.lk](https://iamprogrammer.lk)
+  - ✉️ [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk)
 
 - [Contributors](/../../graphs/contributors)
 
