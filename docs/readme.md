@@ -1,5 +1,3 @@
-<meta name='impact-site-verification' value='196532535' />
-
 <br><br><br><br><br><br>
 
 <div align="center" style="text-align: center;">
@@ -27,6 +25,12 @@
 
 <p>The "iamprogrammerlk" is a professional alias of a freelance software developer and web designer. specialized in building robust digital solutions and engaging web experiences for a diverse clientele. This website serves as a portfolio and the primary point of contact for new projects and collaborations.</p>
 
+</div>
+
+<br>
+
+<div align="center" style="text-align: center;">
+<iframe id="iframe_26" src="//a.impactradius-go.com/gen-ad-code/2377589/1183690/5618/" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 </div>
 
 <br>
