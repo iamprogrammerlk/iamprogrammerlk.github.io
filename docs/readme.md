@@ -1,3 +1,5 @@
+<meta name='impact-site-verification' value='196532535' />
+
 <br><br><br><br><br><br>
 
 <div align="center" style="text-align: center;">
@@ -13,16 +15,15 @@
 <br>
 
 <a href="https://iamprogrammer.lk">Home</a> ⭐
-<a href="https://blog.iamprogrammer.lk">Blog</a> ⭐
 <a href="https://github.com/sponsors/iamprogrammerlk">Sponsors</a> ⭐
 <a href="https://reddit.com/r/iamprogrammerlk">Community</a> ⭐
 <a href="https://github.com/iamprogrammerlk">Github</a> ⭐
 <a href="https://youtube.com/@iamprogrammerlk">Youtube</a> ⭐
 <a href="https://x.com/iamprogrammerlk">X</a> ⭐
-<a href="https://lk.linkedin.com/company/iamprogrammerlk">LinkedIn</a> ⭐
+<a href="https://linkedin.com/company/iamprogrammerlk">LinkedIn</a> ⭐
 <a href="https://buymeacoffee.com/iamprogrammerlk">Buy Me a Coffee</a>
 
-<br>
+<br><br>
 
 <p>The "iamprogrammerlk" is a professional alias of a freelance software developer and web designer. specialized in building robust digital solutions and engaging web experiences for a diverse clientele. This website serves as a portfolio and the primary point of contact for new projects and collaborations.</p>
 
