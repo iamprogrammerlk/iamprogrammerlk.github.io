@@ -30,7 +30,8 @@
 <br>
 
 <div align="center" style="text-align: center;">
-<iframe id="iframe_26" src="//a.impactradius-go.com/gen-ad-code/2377589/1183690/5618/" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a rel="sponsored" href="https://namecheap.pxf.io/c/2377589/1183690/5618" target="_top" id="1183690">
+<img src="//a.impactradius-go.com/display-ad/5618-1183690" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://namecheap.pxf.io/i/2377589/1183690/5618" style="position:absolute;visibility:hidden;" border="0" />
 </div>
 
 <br>
