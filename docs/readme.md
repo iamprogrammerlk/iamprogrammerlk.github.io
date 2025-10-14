@@ -22,7 +22,9 @@
 
 <br><br>
 
-<p>The "iamprogrammerlk" is a professional alias of a freelance software developer and web designer. specialized in building robust digital solutions and engaging web experiences for a diverse clientele. This website serves as a portfolio and the primary point of contact for new projects and collaborations.</p>
+<p>The "iamprogrammerlk" is a professional alias of a freelance software developer and web designer. specialized in building 
+robust digital solutions and engaging web experiences for a diverse clientele. This website serves as a portfolio and 
+the primary point of contact for new projects and collaborations.</p>
 
 </div>
 
