@@ -31,6 +31,7 @@ My portfolio website.
 
   [iamprogrammer.lk](https://iamprogrammer.lk)
   🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk)
+  🔸 [reddit.com/u/iamprogrammerlk_](https://reddit.com/u/iamprogrammerlk_)
   🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk)
   🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
 
@@ -43,7 +44,7 @@ My portfolio website.
 
 # ✨ Get Involved
 
-Get in touch with the project developers and the community through our [GitHub Discussions](/../../discussions) forum.
+Get in touch with the project developers and the community through our [Reddit.com Community](https://reddit.com/r/iamprogrammerlk) forum.
 View [contributing.md](/contributing.md) for information.
 
 <br>
