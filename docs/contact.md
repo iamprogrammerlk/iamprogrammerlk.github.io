@@ -35,8 +35,9 @@
 <h3>✴️ Github.com : <a href="https://github.com/iamprogrammerlk">iamprogrammerlk</a></h3>
 <h3>✴️ Linkedin.com : <a href="https://linkedin.com/company/iamprogrammerlk">iamprogrammerlk</a></h3>
 <h3>✴️ Packagist.org : <a href="https://packagist.org/packages/iamprogrammerlk">iamprogrammerlk</a></h3>
-<h3>✴️ StackOverflow.com : <a href="https://stackoverflow.com/users/3966844/iamprogrammerlk">iamprogrammerlk</a></h3>
 <h3>✴️ Reddit.com: <a href="https://reddit.com/u/iamprogrammerlk_">iamprogrammerlk_</a></h3>
+<h3>✴️ StackOverflow.com : <a href="https://stackoverflow.com/users/3966844/iamprogrammerlk">iamprogrammerlk</a></h3>
+<h3>✴️ Telegram.org : <a href="https://t.me/iamprogrammerlk">iamprogrammerlk</a></h3>
 <h3>✴️ WordPress.org : <a href="https://profiles.wordpress.org/iamprogrammerlk">iamprogrammerlk</a></h3>
 <h3>✴️ X.com : <a href="https://x.com/iamprogrammerlk">iamprogrammerlk</a></h3>
 <h3>✴️ YouTube.com : <a href="https://youtube.com/@iamprogrammerlk">iamprogrammerlk</a></h3>
