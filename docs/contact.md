@@ -14,7 +14,6 @@
 
 <br><br><br><br>
 
-
 <h1>🚀 Would you like to contact me?</h1>
 
 <h3>📌 Please feel free to contact me through any of the following channels.</h3>
@@ -41,6 +40,5 @@
 <h3>✴️ WordPress.org : <a href="https://profiles.wordpress.org/iamprogrammerlk">iamprogrammerlk</a></h3>
 <h3>✴️ X.com : <a href="https://x.com/iamprogrammerlk">iamprogrammerlk</a></h3>
 <h3>✴️ YouTube.com : <a href="https://youtube.com/@iamprogrammerlk">iamprogrammerlk</a></h3>
-
 
 <br><br><br><br>
