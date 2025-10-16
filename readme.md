@@ -20,8 +20,7 @@ My portfolio website.
 >
 > If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
 
-<br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -34,8 +33,7 @@ My portfolio website.
 
 - [Contributors][contributors]
 
-<br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -45,7 +43,7 @@ Get in touch with the project developers and the community through our [Reddit.c
 View [contributing.md][contributing] for information.
 
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -53,8 +51,7 @@ View [contributing.md][contributing] for information.
 
 Bug reports and feature requests can be submitted on the [Github Issues][issues].
 
-<br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -69,8 +66,7 @@ the [Contributor License Agreement][contributor_license_agreement].
 > This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
 > Please keep those discussions elsewhere.
 
-<br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -102,8 +98,7 @@ See [license][license.md] for more information.
 - ⛔ ~~Trademark use~~
 - 🚫 Warranty
 
-<br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -112,8 +107,7 @@ See [license][license.md] for more information.
 - Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][github].
 - Copyright © 2025 ❤️ [Contributors][contributors].
 
-<br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
