@@ -66,8 +66,13 @@
 
 <br><br>
 
-## ‼️ ‼️ ‼️Please do not sponsor me if you expect significant publicity or special influence over my projects. No amount of money can sway these projects. ‼️ ‼️ ‼️
+<div align="center" style="text-align: center;">
+<h2> ‼️ ‼️ ‼️Please do not sponsor me if you expect significant publicity or special influence over my projects. No amount of money can sway these projects. ‼️ ‼️ ‼️</h2>
 
-# Thank you ❤️ and whatever 🤑 you give is very much appreciated! 💯
+<br><br>
+
+<h1>Thank you ❤️ and whatever 🤑 you give is very much appreciated! 💯</h1>
+
+</div>
 
 <br><br><br><br>
