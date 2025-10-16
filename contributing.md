@@ -7,10 +7,10 @@
 
 ## We welcome all contributions and will give full credit to all contributors.
 
-You can visit the [Issues](/../../issues) section to propose changes or features. Please ensure that your suggestion
+You can visit the [Issues][issues] section to propose changes or features. Please ensure that your suggestion
 hasn't already been made and is not in the works.
 
-Help prioritize [issues](/../../issues) by adding a "👍" reaction to new features you'd like to see in this project or
+Help prioritize [issues][issues] by adding a "👍" reaction to new features you'd like to see in this project or
 problems that affect you.
 
 Assist the project by helping other users, enhancing the documentation, or validating security measures.
@@ -35,9 +35,9 @@ If you have technical or coding experience, you can assist by:
 
 - Verify submitted bugs and provide additional details.
 
-If you need assistance with submitting your code contributions, the [Reddit.com Community](https://reddit.com/r/iamprogrammerlk) is a good
-place to begin. You can also contact the project developers and the community through our
-[Reddit.com Community](https://reddit.com/r/iamprogrammerlk) forum.
+If you need assistance with submitting your code contributions, the [Reddit.com Community][reddit_community]
+is a good place to begin.
+You can also contact the project developers and the community through our [Reddit.com Community][reddit_community]forum.
 
 ## General Rules For Contributing
 
@@ -83,21 +83,21 @@ contributions.
 - Please keep in mind the following important points:
 
   - This is an open-source project run by volunteers.
-  - You are welcome to fork the project or work with it under the terms of the [license](/license.md)
+  - You are welcome to fork the project or work with it under the terms of the [license][license]
 
   Feel free to use the code, fork the project, or make any modifications you like, especially if we are unable to
-  incorporate your recommendations. However, we kindly ask you to respect our [license](/license.md) agreement.
+  incorporate your recommendations. However, we kindly ask you to respect our [license][license] agreement.
 
 ## Pull Requests
 
 > [!IMPORTANT]
 >
 > All code that you contribute is subject to the repository's license. By submitting your code, you agree to release it
-> under that [license](/license.md).
+> under that [license][license].
 
 We only accept contributions through Pull Requests on GitHub to the relevant repository/branch.
 
-- Please document any behavioral changes in the pull request so we can easily update the [changelog.md](/changelog.md)
+- Please document any behavioral changes in the pull request so we can easily update the [changelog.md][changelog]
   when releasing a new version.
 
 - Please keep your commit message's first line within 80 characters. Use subsequent lines for additional information.
@@ -118,7 +118,7 @@ We only accept contributions through Pull Requests on GitHub to the relevant rep
 
 - All code contributed to the project is subject to the project's license. By committing and merging your code with
   ours, you agree to license your code to us under the project's license. For more details, please see the
-  [Contributor License Agreement](/contributor_license_agreement.md).
+  [Contributor License Agreement][contributor_license_agreement].
 
 ## Miscellaneous
 
@@ -126,4 +126,11 @@ The terms of this contribution agreement may change at any time and will be publ
 Changes take effect immediately for new contributions and will also apply to existing contributions. If you wish to opt
 out of the new terms, please contact any member of the leadership team.
 
-You can view our list of [Contributors](/../../graphs/contributors).
+You can view our list of [Contributors][contributors].
+
+[issues]: /../../issues
+[reddit_community]: https://reddit.com/r/iamprogrammerlk
+[license]: /license.md
+[changelog]: /changelog.md
+[contributor_license_agreement]: /contributor_license_agreement.md
+[Contributors]: /../../graphs/contributors
