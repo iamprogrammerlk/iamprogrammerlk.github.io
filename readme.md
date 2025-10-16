@@ -27,12 +27,12 @@ My portfolio website.
 
 # 💕 Credits
 
-- I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
+- I am Programmer [@iamprogrammerlk][github]
 
-  - 🌐 [iamprogrammer.lk](https://iamprogrammer.lk)
-  - ✉️ [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk)
+  - 🌐 [iamprogrammer.lk][iamprogrammer.lk]
+  - ✉️ [contact@iamprogrammer.lk][contact@iamprogrammer.lk]
 
-- [Contributors](/../../graphs/contributors)
+- [Contributors][contributors]
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -41,8 +41,8 @@ My portfolio website.
 
 # ✨ Get Involved
 
-Get in touch with the project developers and the community through our [Reddit.com Community](https://reddit.com/r/iamprogrammerlk) forum.
-View [contributing.md](/contributing.md) for information.
+Get in touch with the project developers and the community through our [Reddit.com Community][reddit] forum.
+View [contributing.md][contributing] for information.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -51,7 +51,7 @@ View [contributing.md](/contributing.md) for information.
 
 # 🔥 Issues
 
-Bug reports and feature requests can be submitted on the [Github Issues](/../../issues).
+Bug reports and feature requests can be submitted on the [Github Issues][issues].
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,8 +61,8 @@ Bug reports and feature requests can be submitted on the [Github Issues](/../../
 # 👍 Code of Conduct
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
-the [Code of Conduct](/code_of_conduct.md), [Security Policy](/security.md), and be bound by the terms of
-the [Contributor License Agreement](/contributor_license_agreement.md).
+the [Code of Conduct][code_of_conduct], [Security Policy][security], and be bound by the terms of
+the [Contributor License Agreement][contributor_license_agreement].
 
 > [!IMPORTANT]
 >
@@ -76,9 +76,9 @@ the [Contributor License Agreement](/contributor_license_agreement.md).
 
 # ⚖️ License
 
-### This work is distributed under the [MIT License](https://choosealicense.com/licenses/mit/) License.
+### This work is distributed under the [MIT License][license] License.
 
-See [license](/license.md) for more information.
+See [license][license.md] for more information.
 
 ### Permissions
 
@@ -109,10 +109,23 @@ See [license](/license.md) for more information.
 
 # ©️ Copyright
 
-- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk).
-- Copyright © 2025 ❤️ [Contributors](/../../graphs/contributors).
+- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][github].
+- Copyright © 2025 ❤️ [Contributors][contributors].
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
+
+[github]: https://github.com/iamprogrammerlk
+[iamprogrammer.lk]: https://iamprogrammer.lk
+[contact@iamprogrammer.lk]: mailto:contact@iamprogrammer.lk
+[contributors]: /../../graphs/contributors
+[reddit]: https://reddit.com/r/iamprogrammerlk
+[contributing]: /contributing.md
+[issues]: /../../issues
+[code_of_conduct]:/code_of_conduct.md
+[security]: /security.md
+[contributor_license_agreement]: /contributor_license_agreement.md
+[license]: https://choosealicense.com/licenses/mit/
+[license.md]: /license.md
