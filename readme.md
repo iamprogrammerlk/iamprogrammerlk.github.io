@@ -72,7 +72,7 @@ the [Contributor License Agreement][contributor_license_agreement].
 
 # ⚖️ License
 
-### This work is distributed under the [MIT License][license] License.
+### This work is distributed under the [MIT License 1.0][license] License.
 
 See [license][license.md] for more information.
 
