@@ -24,15 +24,13 @@
 
 <div align="center" style="text-align: center;">
   <h1><a href="https://buymeacoffee.com/iamprogrammerlk/extras">👉 👉 👉 Get My Support 👈 👈 👈</a></h1>
-</div>
 
-<br><br>
+  <br><br>
 
-<h1>👔 Professional 🛟 support for professionals. 🏆</h1>
+  <h1>👔 Professional 🛟 support for professionals. 🏆</h1>
 
-<br><br>
+  <br><br>
 
-<div align="center" style="text-align: center;">
   <h2>
   📨 <a href="mailto:contact@iamprogrammer.lk">contact@iamprogrammer.lk</a> ☎️ <a href="tel:+94783366900">+94 78 33 66 900</a> 💬 <a href="https://wa.me/+94783366900">WhatsApp</a>
   </h2>
