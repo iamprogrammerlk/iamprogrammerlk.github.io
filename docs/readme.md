@@ -12,13 +12,13 @@
 
 <br>
 
-<h3>
-  ⭐ <a href="https://iamprogrammer.lk">Home</a> ⭐
-  <a href="https://iamprogrammer.lk/sponsor">Be a Sponsor</a> ⭐
-  <a href="https://iamprogrammer.lk/support">Get Support</a> ⭐
-  <a href="https://iamprogrammer.lk/contact">Contact Me</a> ⭐
-  <a href="https://reddit.com/r/iamprogrammerlk">Join the Community</a> ⭐
-</h3>
+  <h2>
+    <a href="https://iamprogrammer.lk">🏠 Home</a> 
+    <a href="https://iamprogrammer.lk/sponsor">🫅 Be a Sponsor</a> 
+    <a href="https://iamprogrammer.lk/support">🛟 Get Support</a> 
+    <a href="https://iamprogrammer.lk/contact">☎️ Contact Me</a> 
+    <a href="https://reddit.com/r/iamprogrammerlk">♥️ Join the Community</a> 
+  </h2>
 
 <br><br>
 
@@ -44,6 +44,7 @@ the primary point of contact for new projects and collaborations.</p>
 
 <h2>🛰️ Services</h2>
 
+⭐
 <a>Web Development</a> ⭐
 <a>WordPress Design</a> ⭐
 <a>Application Development</a> ⭐
@@ -53,7 +54,7 @@ the primary point of contact for new projects and collaborations.</p>
 <a>Cloud Application Development</a> ⭐
 <a>Technical Support</a> ⭐
 <a>Android Development</a> ⭐
-<a>Training</a>
+<a>Training</a> ⭐
 
 <br>
 
