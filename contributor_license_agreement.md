@@ -1,12 +1,12 @@
 # Contributor License Agreement
 
-- author: I am Programmer <https://iamprogrammer.lk>
+- author: I am Programmer [iamprogrammer.lk](https://iamprogrammer.lk)
 
 - version: 1.0.0
 
-- release_date: 2025-01-18
+- release_date: 2025-10-15
 
-- last_update: 2025-01-18
+- last_update: 2025-10-15
 
 > [!CAUTION]
 >
@@ -18,7 +18,8 @@
 
 In order to clarify the intellectual property license granted with contributions from any person or entity
 (the "Contributor"), this project owner(s) require all contributions to be signed by the contributor (using Git's "Sign
-and Verify Work Using GPG" ([Git Tools - Signing Your Work using GPG](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)) workflow), indicating an agreement to the license terms below.
+and Verify Work Using GPG" ([Git Tools - Signing Your Work using GPG][git_tools]) workflow), indicating an agreement to
+the license terms below.
 
 This license is for your protection as a contributor as well as the protection of the project itself and its users, it
 does not change your rights to use your own contributions for any other purpose.
@@ -26,7 +27,9 @@ does not change your rights to use your own contributions for any other purpose.
 This version of the agreement allows an entity (the "contributor") to submit contributions to the project, and to grant
 copyright and patent licenses thereto.
 
-## The following terms and conditions are read, understood, accepted, and agreed upon by you (the "contributor") and the project (and the "project owner(s)"):
+## The following terms and conditions are
+
+## read, understood, accepted, and agreed upon by you (the "contributor") and the project (and the "project owner(s)"):
 
 - Your "Contributions" means all of your past, present, and future contributions of object code, source code, digital
   assets, and documentation to this project, however, submitted to the project, excluding any submissions that are
@@ -61,3 +64,5 @@ copyright and patent licenses thereto.
 - Project owner(s) agree your contributions will apply only to this project (including all the repositories run by this
   project) and your contributions will not be individually separated, shared, relicensed, or sold outside of this
   project.
+
+[git_tools]: https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
