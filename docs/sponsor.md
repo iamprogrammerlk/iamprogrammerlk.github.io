@@ -66,10 +66,8 @@
 
 <br><br>
 
-> [!IMPORTANT]
->
-> ## Please do not sponsor me if you expect significant publicity or special influence over my projects. No amount of money can sway these projects.
+## ‼️ ‼️ ‼️Please do not sponsor me if you expect significant publicity or special influence over my projects. No amount of money can sway these projects. ‼️ ‼️ ‼️
 
-# Thank you, and whatever ❤️ you give is very much appreciated!
+# Thank you ❤️ and whatever 🤑 you give is very much appreciated! 💯
 
 <br><br><br><br>
