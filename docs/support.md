@@ -6,7 +6,7 @@
 [🏠 Home][home]
 [🫅 Be a Sponsor][sponsor]
 [🛟 Get Support][support]
-[☎️ Contact Me][contact] 
+[☎️ Contact Me][contact]
 [♥️ Join the Community][community]
 
 </h2>
@@ -31,7 +31,9 @@ exclusively for my valued paying clients.
 ## 🏆 🏆 🏆 Professional support for professionals. 🏆 🏆 🏆
 
 ## [📨 contact@iamprogrammer.lk][email]
+
 ## [☎️ +94 78 33 66 900][phone]
+
 ## [💬 WhatsApp][whatsapp]
 
 </div>
