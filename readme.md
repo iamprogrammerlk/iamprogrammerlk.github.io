@@ -10,9 +10,9 @@
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# iamprogrammer.lk
 
-{{PROJECT_DESCRIPTION}}
+My portfolio website.
 
 > [!TIP]
 >
