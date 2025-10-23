@@ -1,6 +1,10 @@
 <br><br><br><br>
 
-# [🏠 Home][home] [🫅 Be a Sponsor][sponsor] [🛟 Get Support][support] [☎️ Contact Me][contact] [♥️ Join the Community][community]
+[🏠 Home][home]
+[🫅 Be a Sponsor][sponsor]
+[🛟 Get Support][support]
+[☎️ Contact Me][contact]
+[♥️ Join the Community][community]
 
 <br><br><br><br>
 
