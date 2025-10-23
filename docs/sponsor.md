@@ -1,16 +1,10 @@
 <br><br><br><br>
 
-<div align="center" style="text-align: center;">
-<h2>
-
 [🏠 Home][home]
 [🫅 Be a Sponsor][sponsor]
 [🛟 Get Support][support]
 [☎️ Contact Me][contact]
 [♥️ Join the Community][community]
-
-</h2>
-</div>
 
 <br><br><br><br>
 
@@ -34,11 +28,7 @@ these projects. That would mean a lot to me!
 Partner with me to support innovative projects and gain visibility in the developer community. I offer various
 sponsorship tiers to match your organization's goals and budget.
 
-<div align="center" style="text-align: center;">
-
 # [👉 👉 👉 Get in Touch 👈 👈 👈][contact]
-
-</div>
 
 <br><br>
 
@@ -69,8 +59,6 @@ shared vision.
 
 <br><br>
 
-<div align="center" style="text-align: center;">
-
 # ⚠️
 
 ## Please do not sponsor me if
@@ -82,8 +70,6 @@ _you expect significant publicity or special influence over my projects. No amou
 <br><br>
 
 # Thank you ❤️ and whatever 🤑 you give is very much appreciated! 💯
-
-</div>
 
 <br><br><br><br>
 

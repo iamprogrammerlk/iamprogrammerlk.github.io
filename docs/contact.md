@@ -1,16 +1,6 @@
 <br><br><br><br>
 
-<div align="center" style="text-align: center;">
-<h2>
-
-[🏠 Home][home]
-[🫅 Be a Sponsor][sponsor]
-[🛟 Get Support][support]
-[☎️ Contact Me][contact]
-[♥️ Join the Community][community]
-
-</h2>
-</div>
+# [🏠 Home][home] [🫅 Be a Sponsor][sponsor] [🛟 Get Support][support] [☎️ Contact Me][contact] [♥️ Join the Community][community]
 
 <br><br><br><br>
 

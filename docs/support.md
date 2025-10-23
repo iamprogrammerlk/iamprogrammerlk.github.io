@@ -1,16 +1,10 @@
 <br><br><br><br>
 
-<div align="center" style="text-align: center;">
-<h2>
-
 [🏠 Home][home]
 [🫅 Be a Sponsor][sponsor]
 [🛟 Get Support][support]
 [☎️ Contact Me][contact]
 [♥️ Join the Community][community]
-
-</h2>
-</div>
 
 <br><br><br><br>
 
@@ -24,8 +18,6 @@ exclusively for my valued paying clients.
 
 <br><br>
 
-<div align="center" style="text-align: center;">
-
 # [👉 👉 👉 Get My Support 👈 👈 👈][buymeacoffee]
 
 ## 🏆 🏆 🏆 Professional support for professionals. 🏆 🏆 🏆
@@ -35,8 +27,6 @@ exclusively for my valued paying clients.
 ## [☎️ +94 78 33 66 900][phone]
 
 ## [💬 WhatsApp][whatsapp]
-
-</div>
 
 <br><br><br><br>
 
