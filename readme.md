@@ -3,8 +3,8 @@
 <br><br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://github.com/iamprogrammerlk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+  <a href="https://iamprogrammer.lk">
+    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
   </a>
 </div>
 
@@ -26,7 +26,7 @@ My portfolio website.
 
 # 💕 Credits
 
-- I am Programmer [@iamprogrammerlk][github]
+- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
 
   - 🌐 [iamprogrammer.lk][iamprogrammer_url]
   - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
@@ -60,7 +60,7 @@ Read more about,
 - [Security Policy][security]
 - [Support][support]
 
-Get in touch with the project developers and the community through our [Reddit.com Community][reddit] forum.
+Get in touch with the project developers and the community through our [Reddit.com Community][community] forum.
 
 <br>
 <p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
@@ -130,18 +130,18 @@ See [license][license_md] for more information.
 
 # ©️ Copyright
 
-- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][github].
+- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
 - Copyright © 2025 ❤️ [Contributors][contributors].
 
 <br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
-[github]: https://github.com/iamprogrammerlk
+[iamprogrammer_github]: https://github.com/iamprogrammerlk
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
 [contributors]: /../../graphs/contributors
-[reddit]: https://reddit.com/r/iamprogrammerlk
+[community]: https://reddit.com/r/iamprogrammerlk
 [contributing]: /contributing.md
 [governance]: /governance.md
 [support]: /support.md
