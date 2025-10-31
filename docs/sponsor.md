@@ -17,7 +17,7 @@ these projects. That would mean a lot to me!
 
 ## [☕ ☕ ☕ Buy Me A Coffee ☕ ☕ ☕][buymeacoffee]
 
-## 🙏 Please don't feel pressured if you can't, almost all my projects are open source and free to use. 😀
+### 🙏 Please don't feel pressured if you can't, almost all my projects are open source and free to use. 😀
 
 <br>
 <br>
@@ -52,11 +52,11 @@ sponsorship tiers to match your organization's goals and budget.
 These organizations support my work and help me create amazing projects. I'm grateful for their partnership and
 shared vision.
 
-- [🔷 Envato Placeit][envato_placeit]
-- [🔷 Envato Market][envato_market]
-- [🔷 Namecheap][namecheap]
-- [🔷 Parallels.com][parallels]
-- [🔷 signNow][signnow]
+- ❤️ [Envato Placeit][envato_placeit]
+- ❤️ [Envato Market][envato_market]
+- ❤️ [Namecheap][namecheap]
+- ❤️ [Parallels.com][parallels]
+- ❤️ [signNow][signnow]
 
 <br>
 <br>

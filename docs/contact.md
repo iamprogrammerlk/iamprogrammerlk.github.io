@@ -16,9 +16,6 @@ title: Contact
 
 ## [💬 WhatsApp][whatsapp]
 
-<br>
-<br>
-
 ## 📣 Social Profiles
 
 - ✴️ Facebook.com : [facebook.com/iamprogrammerlk][facebook]
