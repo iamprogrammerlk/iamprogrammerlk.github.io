@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sponsor
+---
+
 <br><br><br><br>
 
 [🏠 Home][home]
