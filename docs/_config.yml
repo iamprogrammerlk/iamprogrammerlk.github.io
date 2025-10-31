@@ -1,8 +1,16 @@
 # theme: minima
 remote_theme: jekyll/minima
 
+# Minima's dark skin is an unreleased feature. It is available only via remote-theme
 minima:
   skin: dark
+  nav_pages:
+    - index.md
+    - sponsor.md
+    - support.md
+    - contact.md
+    - https://reddit.com/r/iamprogrammerlk
+  date_format: "%Y %m %d"
 
 title: I am Programmer
 
@@ -24,4 +32,5 @@ twitter_username: iamprogrammerlk
 github_username: iamprogrammerlk
 
 plugins:
+  - jekyll-seo-tag
   - jekyll-remote-theme
