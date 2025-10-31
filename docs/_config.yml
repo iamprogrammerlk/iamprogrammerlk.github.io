@@ -6,6 +6,7 @@ minima:
   skin: dark
   nav_pages:
     - sponsor.md
+    - project.md
     - support.md
     - contact.md
     - community.md

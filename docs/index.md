@@ -30,19 +30,6 @@ portfolio and the primary point of contact for new projects and collaborations.
 <br>
 <br>
 
-# 🚀 Inquiries
-
-### 📫 Please feel free to contact me through any of the following channels. 📫
-
-## [📨 contact@iamprogrammer.lk][email]
-
-## [☎️ +94 78 33 66 900][phone]
-
-## [💬 WhatsApp][whatsapp]
-
-<br>
-<br>
-
 # 🛰️ Services
 
 - ⭐ Web Development
@@ -56,12 +43,28 @@ portfolio and the primary point of contact for new projects and collaborations.
 - ⭐ Android Development
 - ⭐ Training
 
+# [🏗️ 🏗️ 🏗️ See My Projects 🏗️ 🏗️ 🏗️][project]
+
 # [🛟 🛟 🛟 Get My Support 🛟 🛟 🛟][support]
 
 <br>
 <br>
 
+# 🚀 Inquiries
+
+### 📫 Please feel free to contact me through any of the following channels. 📫
+
+## [📨 contact@iamprogrammer.lk][email]
+
+## [☎️ +94 78 33 66 900][phone]
+
+## [💬 WhatsApp][whatsapp]
+
+<br>
+<br>
+
 [support]: https://iamprogrammer.lk/support
+[project]: https://iamprogrammer.lk/project
 [email]: mailto:contact@iamprogrammer.lk
 [phone]: tel:+94783366900
 [whatsapp]: https://wa.me/+94783366900
