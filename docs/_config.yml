@@ -5,11 +5,9 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   nav_pages:
-    - index.md
     - sponsor.md
     - support.md
     - contact.md
-    - "https://reddit.com/r/iamprogrammerlk"
   date_format: "%Y %m %d"
   social_links:
     - title: GitHub
@@ -18,6 +16,7 @@ minima:
     - title: X
       icon: x-twitter
       url: "https://x.com/iamprogrammerlk"
+  hide_site_feed_link: true
 
 title: I am Programmer
 
