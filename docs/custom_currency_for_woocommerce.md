@@ -3,30 +3,16 @@ layout: page
 title: Custom Currency for WooCommerce
 ---
 
-<br>
-<br>
-<br>
-<br>
-
 <div align="center" style="text-align: center;">
   <a href="https://wordpress.org/plugins/custom-currency-for-woocommerce">
     <img src="https://ps.w.org/custom-currency-for-woocommerce/assets/banner-1544x500.png?rev=2385115" 
     alt="custom-currency-for-woocommerce" width="100%">
   </a>
-  <br><br>
-  <h1>Custom Currency for WooCommerce WordPress Plugin</h1>
-  <br><br>
-    <h2>
-    <a href="https://iamprogrammer.lk">🏠 Home</a> 
-    <a href="https://iamprogrammer.lk/sponsor">🫅 Be a Sponsor</a> 
-    <a href="https://iamprogrammer.lk/support">🛟 Get Support</a> 
-    <a href="https://iamprogrammer.lk/contact">☎️ Contact Me</a> 
-    <a href="https://reddit.com/r/iamprogrammerlk">♥️ Join the Community</a> 
-  </h2>
+  <br>
+  <br>
+  <h1>WordPress Plugin</h1>
 </div>
 
-<br>
-<br>
 <br>
 <br>
 
@@ -40,8 +26,6 @@ title: Custom Currency for WooCommerce
 
 ### _Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer]._
 
-<br>
-<br>
 <br>
 <br>
 

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Sponsor
+title: Support
 ---
 
-<br>
-<br>
 <br>
 <br>
 
@@ -29,8 +27,6 @@ exclusively for my valued paying clients.
 
 ## [💬 WhatsApp][whatsapp]
 
-<br>
-<br>
 <br>
 <br>
 

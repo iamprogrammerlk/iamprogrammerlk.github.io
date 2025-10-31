@@ -5,8 +5,6 @@ title: Contact
 
 <br>
 <br>
-<br>
-<br>
 
 # 🚀 Would you like to contact me?
 
@@ -34,8 +32,6 @@ title: Contact
 - ✴️ X.com : [x.com/iamprogrammerlk][x]
 - ✴️ YouTube.com : [youtube.com/@iamprogrammerlk][youtube]
 
-<br>
-<br>
 <br>
 <br>
 

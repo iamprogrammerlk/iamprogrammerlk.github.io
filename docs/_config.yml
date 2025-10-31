@@ -5,19 +5,28 @@ remote_theme: "jekyll/minima"
 minima:
   skin: dark
   nav_pages:
-    - index.md
     - sponsor.md
     - support.md
     - contact.md
-    - "https://reddit.com/r/iamprogrammerlk"
+    - community.md
   date_format: "%Y %m %d"
   social_links:
     - title: GitHub
       icon: github
       url: "https://github.com/iamprogrammerlk"
+    - title: Reddit
+      icon: reddit
+      url: "https://reddit.com/user/iamprogrammerlk_"
+    - title: YouTube
+      icon: youtube
+      url: "https://youtube.com/@iamprogrammerlk"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/company/iamprogrammerlk"
     - title: X
       icon: x-twitter
       url: "https://x.com/iamprogrammerlk"
+
   hide_site_feed_link: true
 
 title: I am Programmer
@@ -34,10 +43,6 @@ description: >-
 baseurl: ""
 
 url: iamprogrammer.lk
-
-twitter_username: iamprogrammerlk
-
-github_username: iamprogrammerlk
 
 plugins:
   - jekyll-feed
