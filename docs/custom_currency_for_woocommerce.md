@@ -1,4 +1,12 @@
-<br><br><br><br>
+---
+layout: page
+title: Custom Currency for WooCommerce
+---
+
+<br>
+<br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
   <a href="https://wordpress.org/plugins/custom-currency-for-woocommerce">
@@ -17,18 +25,25 @@
   </h2>
 </div>
 
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
 [Custom Currency for WooCommerce][custom_currency_for_woocommerce] allows you to change the currency symbol used in
 [WooCommerce][woocommerce] and you can add a new custom currency type to the [WooCommerce Plugin][woocommerce_plugin].
 
-<br><br>
+<br>
+<br>
 
 ---
 
 ### _Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer]._
 
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
 [custom_currency_for_woocommerce]: https://wordpress.org/plugins/custom-currency-for-woocommerce
 [woocommerce]: https://woocommerce.com

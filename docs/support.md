@@ -1,12 +1,12 @@
-<br><br><br><br>
+---
+layout: page
+title: Sponsor
+---
 
-[🏠 Home][home]
-[🫅 Be a Sponsor][sponsor]
-[🛟 Get Support][support]
-[☎️ Contact Me][contact]
-[♥️ Join the Community][community]
-
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
 # ⛑️ Professional Paid Support Services
 
@@ -16,7 +16,8 @@ I understand that technical challenges can disrupt your workflow and impact your
 [professional support services][buymeacoffee] designed to provide you with timely, reliable, and expert solutions
 exclusively for my valued paying clients.
 
-<br><br>
+<br>
+<br>
 
 # [👉 👉 👉 Get My Support 👈 👈 👈][buymeacoffee]
 
@@ -28,13 +29,11 @@ exclusively for my valued paying clients.
 
 ## [💬 WhatsApp][whatsapp]
 
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
-[home]: https://iamprogrammer.lk
-[sponsor]: https://iamprogrammer.lk/sponsor
-[support]: https://iamprogrammer.lk/support
-[contact]: https://iamprogrammer.lk/contact
-[community]: https://reddit.com/r/iamprogrammerlk
 [buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk/extras
 [email]: mailto:contact@iamprogrammer.lk
 [phone]: tel:+94783366900

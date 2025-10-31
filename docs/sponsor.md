@@ -3,15 +3,10 @@ layout: page
 title: Sponsor
 ---
 
-<br><br><br><br>
-
-[🏠 Home][home]
-[🫅 Be a Sponsor][sponsor]
-[🛟 Get Support][support]
-[☎️ Contact Me][contact]
-[♥️ Join the Community][community]
-
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
 # 👍 Do You Like My Open Source Work?
 
@@ -26,7 +21,8 @@ these projects. That would mean a lot to me!
 
 ## 🙏 Please don't feel pressured if you can't, almost all my projects are open source and free to use. 😀
 
-<br><br>
+<br>
+<br>
 
 # 👑 Interested in Becoming a Sponsor?
 
@@ -35,7 +31,8 @@ sponsorship tiers to match your organization's goals and budget.
 
 # [👉 👉 👉 Get in Touch 👈 👈 👈][contact]
 
-<br><br>
+<br>
+<br>
 
 # 🚀 Sponsorship Benefits
 
@@ -49,7 +46,8 @@ sponsorship tiers to match your organization's goals and budget.
 
 - 🏆 **Exclusive Features:** Activate a premium feature within a chosen project that isn't included in the free version.
 
-<br><br>
+<br>
+<br>
 
 # 💎 Valued Sponsors
 
@@ -62,7 +60,8 @@ shared vision.
 - [🔷 Parallels.com][parallels]
 - [🔷 signNow][signnow]
 
-<br><br>
+<br>
+<br>
 
 # ⚠️
 
@@ -72,17 +71,17 @@ _you expect significant publicity or special influence over my projects. No amou
 
 ---
 
-<br><br>
+<br>
+<br>
 
 # Thank you ❤️ and whatever 🤑 you give is very much appreciated! 💯
 
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
-[home]: https://iamprogrammer.lk
-[sponsor]: https://iamprogrammer.lk/sponsor
-[support]: https://iamprogrammer.lk/support
 [contact]: https://iamprogrammer.lk/contact
-[community]: https://reddit.com/r/iamprogrammerlk
 [github_sponsors]: https://github.com/sponsors/iamprogrammerlk
 [buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk/extras
 [envato_placeit]: https://1.envato.market/bOMmyv

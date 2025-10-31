@@ -1,12 +1,12 @@
-<br><br><br><br>
+---
+layout: page
+title: Contact
+---
 
-[🏠 Home][home]
-[🫅 Be a Sponsor][sponsor]
-[🛟 Get Support][support]
-[☎️ Contact Me][contact]
-[♥️ Join the Community][community]
-
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
 # 🚀 Would you like to contact me?
 
@@ -18,7 +18,8 @@
 
 ## [💬 WhatsApp][whatsapp]
 
-<br><br>
+<br>
+<br>
 
 ## 📣 Social Profiles
 
@@ -33,13 +34,11 @@
 - ✴️ X.com : [x.com/iamprogrammerlk][x]
 - ✴️ YouTube.com : [youtube.com/@iamprogrammerlk][youtube]
 
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
 
-[home]: https://iamprogrammer.lk
-[sponsor]: https://iamprogrammer.lk/sponsor
-[support]: https://iamprogrammer.lk/support
-[contact]: https://iamprogrammer.lk/contact
-[community]: https://reddit.com/r/iamprogrammerlk
 [email]: mailto:contact@iamprogrammer.lk
 [phone]: tel:+94783366900
 [whatsapp]: https://wa.me/+94783366900
