@@ -9,14 +9,21 @@ minima:
     - sponsor.md
     - support.md
     - contact.md
-    - https://reddit.com/r/iamprogrammerlk
+    - "https://reddit.com/r/iamprogrammerlk"
   date_format: "%Y %m %d"
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/iamprogrammerlk"
+    - title: X
+      icon: x-twitter
+      url: "https://x.com/iamprogrammerlk"
 
 title: I am Programmer
 
 author:
   name: I am Programmer
-  email: contact@iamprogrammer.lk
+  email: "contact@iamprogrammer.lk"
 
 description: >-
   The “iamprogrammerlk” is a professional alias of a freelance software developer and web designer
