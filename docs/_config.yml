@@ -1,6 +1,9 @@
 # theme: minima
 remote_theme: jekyll/minima
 
+minima:
+  skin: dark
+
 title: I am Programmer
 
 author:
@@ -19,3 +22,6 @@ url: iamprogrammer.lk
 twitter_username: iamprogrammerlk
 
 github_username: iamprogrammerlk
+
+plugins:
+  - jekyll-remote-theme
