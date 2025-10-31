@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sponsor
+title: 🫅 Sponsor
 ---
 
 <br>
