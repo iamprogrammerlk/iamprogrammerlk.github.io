@@ -1,17 +1,17 @@
-- title: 🏠 Home
-  url: https://{{USERNAME}}.github.io
+- title: 🫅 Sponsor
+  url: https://iamprogrammer.lk/sponsor
 
-- title: 📑 Docs
-  url: https://{{USERNAME}}.github.io/docs
+- title: 🏗️ Project
+  url: https://iamprogrammer.lk/project
 
 - title: 🛟 Support
-  url: https://{{USERNAME}}.github.io/support
+  url: https://iamprogrammer.lk/support
 
 - title: ☎️ Contact
-  url: https://{{USERNAME}}.github.io/contact
+  url: https://iamprogrammer.lk/contact
 
 - title: 🛎️ About
-  url: https://{{USERNAME}}.github.io/about
+  url: https://iamprogrammer.lk/about
 
 - title: ♥️ Community
-  url: https://reddit.com/r/{{USERNAME}}
+  url: https://reddit.com/r/iamprogrammerlk
