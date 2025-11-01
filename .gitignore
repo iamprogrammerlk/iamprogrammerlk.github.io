@@ -1,7 +1,12 @@
 # Custom ---------------------------------------------------------------------------------------------------------------
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
 
 ## All private resources files
-.private/
+# .private/
 .work_in_progress/
 .temporary/
 
