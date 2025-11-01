@@ -1,16 +1,37 @@
+title: "I am Programmer"
+
+email: "contact@iamprogrammer.lk"
+
+description: >- # This means to ignore newlines until "baseurl:"
+  The “iamprogrammerlk” is a professional alias of a freelance software developer and web designer
+  specialized in building robust digital solutions and engaging web experiences for a diverse clientele.
+  This website serves as a portfolio and the primary point of contact for new projects and collaborations.
+
+baseurl: ""
+
+url: "iamprogrammer.lk"
+
+author:
+  name: I am Programmer
+  email: "contact@iamprogrammer.lk"
+
 # theme: minima
+
 remote_theme: "jekyll/minima"
 
-# Minima's dark skin is an unreleased feature. It is available only via remote-theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
 minima:
   skin: dark
-  nav_pages:
-    - sponsor.md
-    - project.md
-    - support.md
-    - contact.md
-    - community.md
   date_format: "%Y %m %d"
+  hide_site_feed_link: true
+  # theme default "nav_pages:" is overridden by the "_data/navigation.yml"
+  # nav_pages:
+  #   - support.md
+  show_excerpts: true
   social_links:
     - title: GitHub
       icon: github
@@ -27,25 +48,3 @@ minima:
     - title: X
       icon: x-twitter
       url: "https://x.com/iamprogrammerlk"
-
-  hide_site_feed_link: true
-
-title: I am Programmer
-
-author:
-  name: I am Programmer
-  email: "contact@iamprogrammer.lk"
-
-description: >-
-  The “iamprogrammerlk” is a professional alias of a freelance software developer and web designer
-  specialized in building robust digital solutions and engaging web experiences for a diverse clientele.
-  This website serves as a portfolio and the primary point of contact for new projects and collaborations.
-
-baseurl: ""
-
-url: iamprogrammer.lk
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-remote-theme
