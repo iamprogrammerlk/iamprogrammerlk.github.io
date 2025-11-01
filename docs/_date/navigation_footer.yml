@@ -1,0 +1,14 @@
+- title: Privacy Policy
+  url: https://{{USERNAME}}.github.io/privacy
+
+- title: Terms of Service
+  url: https://{{USERNAME}}.github.io/terms
+
+- title: FAQ
+  url: https://{{USERNAME}}.github.io/faq
+
+- title: Contact
+  url: https://{{USERNAME}}.github.io/contact
+
+- title: About
+  url: https://{{USERNAME}}.github.io/about
