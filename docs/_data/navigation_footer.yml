@@ -1,14 +1,26 @@
-- title: Privacy Policy
-  url: https://iamprogrammer.lk/privacy
+- title: About
+  url: https://iamprogrammer.lk/about
 
-- title: Terms of Service
-  url: https://iamprogrammer.lk/terms
-
-- title: FAQ
-  url: https://iamprogrammer.lk/faq
+- title: Community
+  url: https://iamprogrammer.lk/community
 
 - title: Contact
   url: https://iamprogrammer.lk/contact
 
-- title: About
-  url: https://iamprogrammer.lk/about
+- title: FAQ
+  url: https://iamprogrammer.lk/faq
+
+- title: Privacy Policy
+  url: https://iamprogrammer.lk/privacy
+
+- title: Project
+  url: https://iamprogrammer.lk/project
+
+- title: Sponsor
+  url: https://iamprogrammer.lk/sponsor
+
+- title: Support
+  url: https://iamprogrammer.lk/support
+
+- title: Terms of Service
+  url: https://iamprogrammer.lk/terms
