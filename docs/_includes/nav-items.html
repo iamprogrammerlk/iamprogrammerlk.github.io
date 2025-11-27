@@ -1,7 +1,7 @@
 <div class="nav-items">
   {%- for navigation_item in site.data.navigation_header -%}
   {%- if navigation_item.title %}
-  <a class="nav-item" href="{{ navigation_item.url }}">{{ navigation_item.title | escape }}</a>
+  <a class="nav-item" href="{{ navigation_item.url }}" rel="canonical">{{ navigation_item.title | escape }}</a>
   {%- endif -%}
   {%- endfor -%}
 </div>
