@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Custom Currency for WooCommerce
+permalink: /custom_currency_for_woocommerce
 ---
 
 <div align="center" style="text-align: center;">
