@@ -4,20 +4,12 @@ title: Bot GIT Tool
 permalink: /bot_git_tool
 ---
 
-<br>
-<br>
-
-# Bot GIT Tool
-
 ### A collection of Bash script tools made to simplify and speed up your GIT workflow automation.
 
 - GIT List
 
   This application efficiently identifies all repositories located within the specified directories, offering a
   comprehensive overview of your projects. GIT List also appends the git path to the '.gitconfig' file.
-
-<br>
-<br>
 
 # 🪧 Usage
 
@@ -33,7 +25,7 @@ git clone --recurse-submodules https://github.com/iamprogrammerlk/bot_git_tool.g
 
 If you already cloned the project and forgot `--recurse-submodules`, You must run following two commands from
 the main project `git submodule init` to initialize your local configuration file, and `git submodule update` to
-fetch all the files from the `bot_git_tool` project, you can use the foolproof
+fetch all the files from the [PrettyBash][perttybash] library, you can use the foolproof
 `git submodule update --init --recursive` command to also initialize, fetch and checkout any nested submodules.
 
 ## GIT List
@@ -41,13 +33,11 @@ fetch all the files from the `bot_git_tool` project, you can use the foolproof
 This application efficiently identifies all repositories located within the specified directories, offering a
 comprehensive overview of your projects. GIT List also appends the git path to the '.gitconfig' file.
 
-### How to use GIT List
-
-Run first time?
+### Run GIT List first time?
 
 > [!WARNING]
 >
-> The `GIT List` bot will overwrite the `$HOME/.gitconfig` file.
+> The `GIT List` will overwrite the `$HOME/.gitconfig` file.
 > It is strongly recommended to create a backup before executing the `GIT LIST` operation.
 
 Make the `git_list.sh` script executable in the `bot_git_tool` directory.
@@ -74,18 +64,19 @@ you wish to scan for GIT repositories. add one directory path on each line.
 > Please avoid adding directories that are high up in the directory tree, such as `/mnt/` or `/`.
 > This can slow down the scanning process.
 
+### How to add custom global GIT configs?
+
 Please open the `$HOME/.config/bot_git_tool/git_list/git_config.conf` file and include all your global Git
 configurations. This step is necessary because `GIT List` overrides your default `.gitconfig` file in the home
 directory.
+
+### How to use GIT List
 
 To run `GIT List` on any location within your system, open the terminal,
 
 ```
 gitlist
 ```
-
-<br>
-<br>
 
 # 🫅 Support This Project
 
@@ -98,8 +89,6 @@ Become a backer and help secure the future of this project:
 
 _Thank you for your incredible support!_
 
-<br>
-<br>
-
 [bot_git_tool]: https://github.com/iamprogrammerlk/bot_git_tool
+[perttybash]: https://github.com/prettybash/prettybash
 [sponsor]: https://iamprogrammer.lk/sponsor
