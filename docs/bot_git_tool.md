@@ -11,6 +11,9 @@ permalink: /bot_git_tool
   This application efficiently identifies all repositories located within the specified directories, offering a
   comprehensive overview of your projects. GIT List also appends the git path to the '.gitconfig' file.
 
+<br>
+<br>
+
 # 🪧 Usage
 
 Clone the [Bot GIT Tool][bot_git_tool] repository anywhere you want 'bot_git_tool' on your system.
@@ -78,6 +81,9 @@ To run `GIT List` on any location within your system, open the terminal,
 gitlist
 ```
 
+<br>
+<br>
+
 # 🫅 Support This Project
 
 Creating and maintaining this project is a labor of love, but it also requires significant time and effort.
@@ -89,6 +95,17 @@ Become a backer and help secure the future of this project:
 
 _Thank you for your incredible support!_
 
+<br>
+<br>
+
+---
+
+# _Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer]._
+
+<br>
+<br>
+
 [bot_git_tool]: https://github.com/iamprogrammerlk/bot_git_tool
 [perttybash]: https://github.com/prettybash/prettybash
 [sponsor]: https://iamprogrammer.lk/sponsor
+[lead_maintainer]: https://github.com/iamprogrammerlk
