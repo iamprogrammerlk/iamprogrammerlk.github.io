@@ -4,7 +4,16 @@ title: Bot GIT Tool
 permalink: /bot_git_tool
 ---
 
-### A collection of Bash script tools made to simplify and speed up your GIT workflow automation.
+<div align="center" style="text-align: center;">
+  <br>
+  <br>
+  <h3><i>Bash Script Bot</i></h3>
+</div>
+
+<br>
+<br>
+
+A collection of Bash script tools made to simplify and speed up your GIT workflow automation.
 
 - GIT List
 
