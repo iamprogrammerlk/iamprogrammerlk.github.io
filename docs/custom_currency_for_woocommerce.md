@@ -11,7 +11,7 @@ permalink: /custom_currency_for_woocommerce
   </a>
   <br>
   <br>
-  <h1>WordPress Plugin</h1>
+  <h3><i>WordPress Plugin</i></h3>
 </div>
 
 <br>
@@ -23,9 +23,23 @@ permalink: /custom_currency_for_woocommerce
 <br>
 <br>
 
+# 🫅 Support This Project
+
+Creating and maintaining this project is a labor of love, but it also requires significant time and effort.
+Your financial contribution ensures this project remains active, supported, and continues to evolve.
+
+Become a backer and help secure the future of this project:
+
+### [🏆 Donate 🏆][sponsor]
+
+_Thank you for your incredible support!_
+
+<br>
+<br>
+
 ---
 
-### _Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer]._
+# _Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer]._
 
 <br>
 <br>
@@ -33,4 +47,5 @@ permalink: /custom_currency_for_woocommerce
 [custom_currency_for_woocommerce]: https://wordpress.org/plugins/custom-currency-for-woocommerce
 [woocommerce]: https://woocommerce.com
 [woocommerce_plugin]: https://wordpress.org/plugins/woocommerce
+[sponsor]: https://iamprogrammer.lk/sponsor
 [lead_maintainer]: https://github.com/iamprogrammerlk
