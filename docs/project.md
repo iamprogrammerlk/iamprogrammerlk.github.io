@@ -189,6 +189,16 @@ web browsers
 
 ---
 
+# 😜 Just For Fun
+
+### 🔥 [Time Machine][time_machine_documentation]
+
+My very own GIT time machine
+
+🚀 [Repository][time_machine_repository] 🛸 [Documentation][time_machine_documentation]
+
+---
+
 <!-- Bots -->
 
 [bgt_repository]: https://github.com/iamprogrammerlk/bot_git_tool
@@ -252,3 +262,8 @@ web browsers
 [theme_rose_pose_documentation]: https://iamprogrammer.lk/theme_rose_pose
 [theme_yellow_mellow_repository]: https://github.com/iamprogrammerlk/theme_yellow_mellow
 [theme_yellow_mellow_documentation]: https://iamprogrammer.lk/theme_yellow_mellow
+
+<!-- Just for Fun-->
+
+[time_machine_repository]: https://github.com/iamprogrammerlk/time_machine
+[time_machine_documentation]: https://iamprogrammer.lk/time_machine
