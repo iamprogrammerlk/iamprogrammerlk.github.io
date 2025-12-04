@@ -123,6 +123,72 @@ license
 
 ---
 
+# 🎨 Themes
+
+### 🔥 [Theme Blue Clue][theme_blue_clue_documentation]
+
+A clever theme that blends deep blue tones with a touch of mystery. Made for Google Chrome and other Chromium-based web
+browsers
+
+🚀 [Repository][theme_blue_clue_repository] 🛸 [Documentation][theme_blue_clue_documentation]
+
+### 🔥 [Theme Brown Crown][theme_brown_crown_documentation]
+
+A brown-colored theme that feels rich, elegant, and is designed for Google Chrome and other Chromium-based web browsers
+
+🚀 [Repository][theme_brown_crown_repository] 🛸 [Documentation][theme_brown_crown_documentation]
+
+### 🔥 [Theme Green Scene][theme_green_scene_documentation]
+
+This green theme brings a natural, serene atmosphere to your workspace. Made for Google Chrome and other Chromium-based
+web browsers
+
+🚀 [Repository][theme_green_scene_repository] 🛸 [Documentation][theme_green_scene_documentation]
+
+### 🔥 [Theme Orange Change][theme_orange_change_documentation]
+
+Bright and full of energy, the orange-colored theme sparks creativity. Made for Google Chrome and other Chromium-based
+web browsers
+
+🚀 [Repository][theme_orange_change_repository] 🛸 [Documentation][theme_orange_change_documentation]
+
+### 🔥 [Theme Pink Wink][theme_pink_wink_documentation]
+
+Playful and charming, a bright pink theme that makes every tab smile. Made for Google Chrome and other Chromium-based
+web browsers
+
+🚀 [Repository][theme_pink_wink_repository] 🛸 [Documentation][theme_pink_wink_documentation]
+
+### 🔥 [Theme Purple Ripple][theme_purple_ripple_documentation]
+
+Smooth and stylish, a purple-colored theme that flows with creativity. Made for Google Chrome and other Chromium-based
+web browsers
+
+🚀 [Repository][theme_purple_ripple_repository] 🛸 [Documentation][theme_purple_ripple_documentation]
+
+### 🔥 [Theme Red Bed][theme_red_bed_documentation]
+
+A vibrant red theme energizes your focus and keeps your browser lively. Designed for Google Chrome and Chromium-based
+browsers
+
+🚀 [Repository][theme_red_bed_repository] 🛸 [Documentation][theme_red_bed_documentation]
+
+### 🔥 [Theme Rose Pose][theme_rose_pose_documentation]
+
+Elegant and romantic, soft rose tones that bring beauty to every click. Made for Google Chrome and other Chromium-based
+web browsers
+
+🚀 [Repository][theme_rose_pose_repository] 🛸 [Documentation][theme_rose_pose_documentation]
+
+### 🔥 [Theme Yellow Mellow][theme_yellow_mellow_documentation]
+
+A bright yellow-themed design that brings sunlight to your browsing. Made for Google Chrome and other Chromium-based
+web browsers
+
+🚀 [Repository][theme_yellow_mellow_repository] 🛸 [Documentation][theme_yellow_mellow_documentation]
+
+---
+
 <!-- Bots -->
 
 [bgt_repository]: https://github.com/iamprogrammerlk/bot_git_tool
@@ -165,3 +231,24 @@ license
 [tlosl_documentation]: https://iamprogrammer.lk/template_license_osl_v3
 [tlwtfpl_repository]: https://github.com/iamprogrammerlk/template_license_wtfpl_v2
 [tlwtfpl_documentation]: https://iamprogrammer.lk/template_license_wtfpl_v2
+
+<!-- Themes -->
+
+[theme_blue_clue_repository]: https://github.com/iamprogrammerlk/theme_blue_clue
+[theme_blue_clue_documentation]: https://iamprogrammer.lk/theme_blue_clue
+[theme_brown_crown_repository]: https://github.com/iamprogrammerlk/theme_brown_crown
+[theme_brown_crown_documentation]: https://iamprogrammer.lk/theme_brown_crown
+[theme_green_scene_repository]: https://github.com/iamprogrammerlk/theme_green_scene
+[theme_green_scene_documentation]: https://iamprogrammer.lk/theme_green_scene
+[theme_orange_change_repository]: https://github.com/iamprogrammerlk/theme_orange_change
+[theme_orange_change_documentation]: https://iamprogrammer.lk/theme_orange_change
+[theme_pink_wink_repository]: https://github.com/iamprogrammerlk/theme_pink_wink
+[theme_pink_wink_documentation]: https://iamprogrammer.lk/theme_pink_wink
+[theme_purple_ripple_repository]: https://github.com/iamprogrammerlk/theme_purple_ripple
+[theme_purple_ripple_documentation]: https://iamprogrammer.lk/theme_purple_ripple
+[theme_red_bed_repository]: https://github.com/iamprogrammerlk/theme_red_bed
+[theme_red_bed_documentation]: https://iamprogrammer.lk/theme_red_bed
+[theme_rose_pose_repository]: https://github.com/iamprogrammerlk/theme_rose_pose
+[theme_rose_pose_documentation]: https://iamprogrammer.lk/theme_rose_pose
+[theme_yellow_mellow_repository]: https://github.com/iamprogrammerlk/theme_yellow_mellow
+[theme_yellow_mellow_documentation]: https://iamprogrammer.lk/theme_yellow_mellow
