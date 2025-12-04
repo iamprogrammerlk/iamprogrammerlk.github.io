@@ -14,7 +14,8 @@ A collection of Bash script tools made to simplify and speed up your GIT workflo
 
 🚀 [Repository][bgt_repository] 🛸 [Documentation][bgt_documentation]
 
----
+<br>
+<br>
 
 # 📈 Project Development
 
@@ -42,7 +43,8 @@ The best naming conventions to follow to avoid unnecessary complications in your
 
 🚀 [Repository][pnc_repository] 🛸 [Documentation][pdsffa_documentation]
 
----
+<br>
+<br>
 
 # 🔋 Templates
 
@@ -121,7 +123,8 @@ license
 
 🚀 [Repository][tlwtfpl_repository] 🛸 [Documentation][tlwtfpl_documentation]
 
----
+<br>
+<br>
 
 # 🎨 Themes
 
@@ -187,7 +190,8 @@ web browsers
 
 🚀 [Repository][theme_yellow_mellow_repository] 🛸 [Documentation][theme_yellow_mellow_documentation]
 
----
+<br>
+<br>
 
 # 😜 Just For Fun
 
@@ -197,7 +201,8 @@ My very own GIT time machine
 
 🚀 [Repository][time_machine_repository] 🛸 [Documentation][time_machine_documentation]
 
----
+<br>
+<br>
 
 <!-- Bots -->
 
