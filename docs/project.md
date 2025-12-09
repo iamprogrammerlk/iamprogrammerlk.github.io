@@ -17,6 +17,23 @@ A collection of Bash script tools made to simplify and speed up your GIT workflo
 <br>
 <br>
 
+# 🧩 Libraries
+
+### [PrettyBash][prettybash_website]
+
+A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
+
+🌐 [Website][prettybash_website] 🗃️ [Documentation][prettybash_documentation]
+🏰 [Organization][prettybash_organization] ⛓️ [Repository][prettybash_repository]
+
+[prettybash_website]: https://prettybash.github.io
+[prettybash_documentation]: https://prettybash.github.io/docs
+[prettybash_organization]: https://github.com/prettybash
+[prettybash_repository]: https://github.com/prettybash/prettybash
+
+<br>
+<br>
+
 # 📈 Project Development
 
 ### 🔥 [Project Directory Structure for Flutter Application][pdsffa_documentation]
