@@ -30,7 +30,7 @@ Your financial contribution ensures this project remains active, supported, and 
 
 Become a backer and help secure the future of this project:
 
-### [🏆 Donate 🏆][sponsor]
+### 🏆 [Donate][sponsor] 🏆
 
 _Thank you for your incredible support!_
 

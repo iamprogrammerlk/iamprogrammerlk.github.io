@@ -9,13 +9,13 @@ permalink: /contact
 
 # 🚀 Would you like to contact me?
 
-### 📫 Please feel free to contact me through any of the following channels. 📫
+### Please feel free to contact me through any of the following channels.
 
-## [📨 contact@iamprogrammer.lk][email]
+## 📨 [contact@iamprogrammer.lk][email]
 
-## [☎️ +94 78 33 66 900][phone]
+## ☎️ [+94 78 33 66 900][phone]
 
-## [💬 WhatsApp][whatsapp]
+## 💬 [WhatsApp][whatsapp]
 
 ## 📣 Social Profiles
 

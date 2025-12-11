@@ -9,7 +9,7 @@ permalink: /support
 
 # ⛑️ Professional Paid Support Services
 
-### 🎖️ Get Expert Assistance When You Need It Most 🎖️
+### Get Expert Assistance When You Need It Most
 
 I understand that technical challenges can disrupt your workflow and impact your business. That’s why I offer premium,
 [professional support services][buymeacoffee] that are designed to provide you with timely, reliable, and expert
@@ -18,7 +18,7 @@ solutions, exclusively for my valued paying clients.
 <br>
 <br>
 
-# Why Choose My Paid Support?
+# 🎖️ Why Choose My Paid Support?
 
 ### **Tailored Solutions:** I don’t offer generic fixes, every solution is customized to your unique needs.
 
@@ -34,23 +34,23 @@ solutions, exclusively for my valued paying clients.
 <br>
 <br>
 
-# Support [Tiers and Pricing][buymeacoffee]
+# 🛟 Support [Tiers and Pricing][buymeacoffee]
 
 I offer flexible plans to match your requirements, All plans include detailed documentation, screen-sharing sessions,
-and post-resolution follow-ups. Please visit the [Buy Me a Coffee][buymeacoffee] page for more details.
+and post-resolution follow-ups. Please visit the ☕ [Buy Me a Coffee][buymeacoffee] ☕ page for more details.
 
 <br>
 <br>
 
-# [👉 👉 👉 Get My Support 👈 👈 👈][buymeacoffee]
+# 👉 [Get My Support][buymeacoffee] 👈
 
-### 🏆 🏆 🏆 Professional support for professionals. 🏆 🏆 🏆
+_Professional support for professionals._
 
-## [📨 contact@iamprogrammer.lk][email]
+## 📨 [contact@iamprogrammer.lk][email]
 
-## [☎️ +94 78 33 66 900][phone]
+## ☎️ [+94 78 33 66 900][phone]
 
-## [💬 WhatsApp][whatsapp]
+## 💬 [WhatsApp][whatsapp]
 
 <br>
 <br>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 🫅 Sponsor
+permalink: /sponsor
 ---
 
 <br>
@@ -11,13 +12,13 @@ title: 🫅 Sponsor
 If you appreciate my work and find it helpful, please consider a small gesture of thanks for the effort I put into
 these projects. That would mean a lot to me!
 
-## [❤️ ❤️ ❤️ Become Github Sponsor ❤️ ❤️ ❤️][github_sponsors]
+## ❤️ [Become Github Sponsor][github_sponsors] ❤️
 
 ### You can also become a member to support my work and get premium privileges on BuyMeACoffee.com
 
-## [☕ ☕ ☕ Buy Me A Coffee ☕ ☕ ☕][buymeacoffee]
+## ☕ [Buy Me A Coffee][buymeacoffee] ☕
 
-### 🙏 Please don't feel pressured if you can't, almost all my projects are open source and free to use. 😀
+> 🙏 Please don't feel pressured if you can't, almost all my projects are open source and free to use.
 
 <br>
 <br>
@@ -27,7 +28,7 @@ these projects. That would mean a lot to me!
 Partner with me to support innovative projects and gain visibility in the developer community. I offer various
 sponsorship tiers to match your organization's goals and budget.
 
-## [👉 👉 👉 Get in Touch 👈 👈 👈][contact]
+## 👉 [Get in Touch][contact] 👈
 
 <br>
 <br>
@@ -61,16 +62,13 @@ shared vision.
 <br>
 <br>
 
-# ⚠️ Please do not sponsor me if
-
-_you expect significant publicity or special influence over my projects. No amount of money can sway these projects._
-
-<br>
-<br>
-
 ---
 
-## Thank you ❤️ and whatever 🤑 you give is very much appreciated! 💯
+> ## ⚠️ Please do not sponsor me if
+>
+> you expect significant publicity or special influence over my projects. No amount of money can sway these projects.
+
+## ❤️ Thank you and whatever 🤑 you give is very much appreciated! 💯
 
 <br>
 <br>

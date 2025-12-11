@@ -31,28 +31,39 @@ portfolio and the primary point of contact for new projects and collaborations.
 - ⭐ Android Development
 - ⭐ Training
 
-# [🏗️ 🏗️ 🏗️ See My Projects 🏗️ 🏗️ 🏗️][project]
+<br>
+<br>
 
-# [🛟 🛟 🛟 Get My Support 🛟 🛟 🛟][support]
+# 🏗️ [Projects][project]
+
+### Check out what I am working on right now.
 
 <br>
 <br>
 
-# 🚀 Inquiries
+# 🛟 [Support][support]
 
-### 📫 Please feel free to contact me through any of the following channels. 📫
+### Access my exclusive priority support for your amazing project.
 
-## [📨 contact@iamprogrammer.lk][email]
+<br>
+<br>
 
-## [☎️ +94 78 33 66 900][phone]
+# 🚀 [Inquiries][contact]
 
-## [💬 WhatsApp][whatsapp]
+### Please feel free to contact me through any of the following channels.
+
+## 📨 [contact@iamprogrammer.lk][email]
+
+## ☎️ [+94 78 33 66 900][phone]
+
+## 💬 [WhatsApp][whatsapp]
 
 <br>
 <br>
 
 [support]: https://iamprogrammer.lk/support
 [project]: https://iamprogrammer.lk/project
+[contact]: https://iamprogrammer.lk/contact
 [email]: mailto:contact@iamprogrammer.lk
 [phone]: tel:+94783366900
 [whatsapp]: https://wa.me/+94783366900
