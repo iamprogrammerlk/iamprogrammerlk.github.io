@@ -22,7 +22,9 @@ permalink: /service
 - ⭐ Android Development
 - ⭐ Training
 
-### Feel free to reach out if you have any questions or want to learn more about how I can assist you!
+### Feel free to [reach out][contact] if you have any questions or want to learn more about how I can assist you!
 
 <br>
 <br>
+
+[contact]: https://iamprogrammer.lk/contact
