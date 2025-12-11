@@ -18,25 +18,23 @@ portfolio and the primary point of contact for new projects and collaborations.
 <br>
 <br>
 
-# 🛰️ Services
-
-- ⭐ Web Development
-- ⭐ WordPress Design
-- ⭐ Application Development
-- ⭐ Web Design
-- ⭐ Custom Software Development
-- ⭐ Mobile Application Development
-- ⭐ Cloud Application Development
-- ⭐ Technical Support
-- ⭐ Android Development
-- ⭐ Training
-
-<br>
-<br>
-
 # 🏗️ [Projects][project]
 
-### Check out what I am working on right now.
+### See the open source projects I am currently working on.
+
+<br>
+<br>
+
+# 🛟 [Sponsors][sponsor]
+
+### Consider making a donation to the open-source projects in which I am currently involved.
+
+<br>
+<br>
+
+# 🛰️ [Services][service]
+
+### All my services are designed to help you reach your goals and make your experience smooth and rewarding.
 
 <br>
 <br>
@@ -61,8 +59,10 @@ portfolio and the primary point of contact for new projects and collaborations.
 <br>
 <br>
 
-[support]: https://iamprogrammer.lk/support
 [project]: https://iamprogrammer.lk/project
+[sponsor]: https://iamprogrammer.lk/sponsor
+[service]: https://iamprogrammer.lk/service
+[support]: https://iamprogrammer.lk/support
 [contact]: https://iamprogrammer.lk/contact
 [email]: mailto:contact@iamprogrammer.lk
 [phone]: tel:+94783366900
