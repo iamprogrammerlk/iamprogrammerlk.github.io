@@ -9,7 +9,7 @@ description: >- # This means to ignore newlines until "baseurl:"
 
 baseurl: ""
 
-url: "iamprogrammer.lk"
+url: "https://iamprogrammer.lk"
 
 author:
   name: I am Programmer
